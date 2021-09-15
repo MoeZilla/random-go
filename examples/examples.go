@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/anonyindian/random"
+	"github.com/anonyindian/random-go"
 )
 
 func main() {
